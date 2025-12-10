@@ -11,7 +11,7 @@
   ],
   "require": {
     "php": "^8.3",
-    "lalaz/cache": "^1.0.0-rc.1"
+    "lalaz/cache": "^1.0.0-rc.2"
   },
   "autoload": {
     "psr-4": {
